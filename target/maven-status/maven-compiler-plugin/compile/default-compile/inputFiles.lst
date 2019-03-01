@@ -1,0 +1,5 @@
+/Users/hitman/Desktop/mtp/hadooplimitations/src/main/java/com/hadoop/limitations/driver/Driver.java
+/Users/hitman/Desktop/mtp/hadooplimitations/src/main/java/com/hadoop/limitations/reducer/RelabelReducer.java
+/Users/hitman/Desktop/mtp/hadooplimitations/src/main/java/com/hadoop/limitations/reducer/FrequencyReducer.java
+/Users/hitman/Desktop/mtp/hadooplimitations/src/main/java/com/hadoop/limitations/mapper/RelabelMapper.java
+/Users/hitman/Desktop/mtp/hadooplimitations/src/main/java/com/hadoop/limitations/mapper/FrequencyMapper.java
